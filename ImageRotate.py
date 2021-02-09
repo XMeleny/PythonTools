@@ -1,7 +1,7 @@
 import os
 from PIL import Image
 
-dir_path = r"C:\Users\Meleny\Documents\Tencent Files\865622793\FileRecv\frames"
+dir_path = r"C:\Users\Meleny\Desktop\m'file\compulsory courses\GraduationProject\dataset\test"
 
 
 def rotate_file(image_path):
