@@ -57,4 +57,5 @@ def handle_dir(dir_url):
 
 
 if __name__ == '__main__':
-    handle_dir(r"C:\Users\Meleny\Desktop\m'file\compulsory courses\GraduationProject\dataset\train_xml")
+    path = r"C:\Users\Meleny\Desktop\m'file\compulsory courses\GraduationProject\dataset\val_xml"
+    handle_dir(path)
