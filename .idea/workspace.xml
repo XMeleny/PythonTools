@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/path_related.py" line="12" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="b8e48809-6587-462e-ad6b-8a2816669965" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/arg_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_package/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_package/test_a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_package/test_b.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VideoRotate.py" beforeDir="false" afterPath="$PROJECT_DIR$/VideoRotate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VideoSplict.py" beforeDir="false" afterPath="$PROJECT_DIR$/VideoSplict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/path_related.py" beforeDir="false" afterPath="$PROJECT_DIR$/path_related.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,56 +24,56 @@
     <session id="1194135032">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="15" />
-          <entry key="project.open.time.0" value="4" />
-          <entry key="project.open.time.1" value="1" />
+          <entry key="project.closed" value="20" />
+          <entry key="project.open.time.0" value="8" />
+          <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.4" value="3" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="3" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="16" />
+          <entry key="project.opened" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="gitignore" value="1" />
+          <entry key="gitignore" value="2" />
           <entry key="ipynb" value="1" />
-          <entry key="py" value="34" />
+          <entry key="py" value="39" />
           <entry key="te" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Git file" value="1" />
+          <entry key="Git file" value="2" />
           <entry key="IPNB" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="34" />
+          <entry key="Python" value="39" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="249" />
           <entry key="dummy" value="7" />
-          <entry key="py" value="5800" />
+          <entry key="py" value="7412" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="7" />
-          <entry key="Python" value="6049" />
+          <entry key="Python" value="7661" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cmd_related.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
-              <caret line="17" column="11" lean-forward="true" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+              <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
               <folding>
                 <marker date="1615294547251" expanded="true" signature="372:375" ph="..." />
               </folding>
@@ -72,11 +81,76 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/path_related.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="41" column="27" lean-forward="true" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/VideoRotate.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+                <marker date="1616476884064" expanded="true" signature="690:2140" ph="..." />
+                <marker date="1616476884064" expanded="true" signature="727:2140" ph="..." />
+                <marker date="1616476884064" expanded="true" signature="1079:1080" ph="..." />
+                <marker date="1616476884064" expanded="true" signature="2137:2140" ph="..." />
+                <marker date="1616476884064" expanded="true" signature="2138:2140" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_package/test_a.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+              <folding>
+                <marker date="1615986115624" expanded="true" signature="8:13" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_package/test_b.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/VideoSplict.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="535">
+              <caret line="40" column="30" lean-forward="true" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/arg_test.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="152">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -93,6 +167,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>path</find>
+      <find>skvi</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -106,9 +181,6 @@
         <option value="$PROJECT_DIR$/voc2yolo.py" />
         <option value="$PROJECT_DIR$/chooseFile.py" />
         <option value="$PROJECT_DIR$/ImageRotate.py" />
-        <option value="$PROJECT_DIR$/VideoRotate.py" />
-        <option value="$PROJECT_DIR$/path_related.py" />
-        <option value="$PROJECT_DIR$/VideoSplict.py" />
         <option value="$PROJECT_DIR$/test/origin.py" />
         <option value="$PROJECT_DIR$/test/function_use.py" />
         <option value="$PROJECT_DIR$/test/arg_use.py" />
@@ -116,14 +188,20 @@
         <option value="$PROJECT_DIR$/arg_use.py" />
         <option value="$PROJECT_DIR$/cmd_related.py" />
         <option value="$PROJECT_DIR$/arg_test.py" />
+        <option value="$PROJECT_DIR$/test_package/test_a.py" />
+        <option value="$PROJECT_DIR$/test_package/test_b.py" />
+        <option value="$PROJECT_DIR$/VideoSplict.py" />
+        <option value="$PROJECT_DIR$/path_related.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/VideoRotate.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-12" />
-    <option name="y" value="-12" />
-    <option name="width" value="1944" />
-    <option name="height" value="1044" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="898" />
+    <option name="y" value="-1451" />
+    <option name="width" value="1302" />
+    <option name="height" value="1403" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -172,7 +250,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.function_use">
+  <component name="RunManager" selected="Python.VideoRotate">
     <configuration name="VideoRotate" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="tools" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -207,27 +285,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/VideoSplict.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="arg_use" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="tools" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Meleny\PycharmProjects\tools\arg_use.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -278,20 +335,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test_b" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="tools" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_package" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_package/test_b.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
+      <item itemvalue="Python.path_related" />
+      <item itemvalue="Python.function_use" />
+      <item itemvalue="Python.test_b" />
       <item itemvalue="Python.VideoRotate" />
       <item itemvalue="Python.VideoSplict" />
-      <item itemvalue="Python.path_related" />
-      <item itemvalue="Python.arg_use" />
-      <item itemvalue="Python.function_use" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.function_use" />
-        <item itemvalue="Python.arg_use" />
-        <item itemvalue="Python.VideoSplict" />
-        <item itemvalue="Python.path_related" />
         <item itemvalue="Python.VideoRotate" />
+        <item itemvalue="Python.path_related" />
+        <item itemvalue="Python.VideoSplict" />
+        <item itemvalue="Python.test_b" />
+        <item itemvalue="Python.function_use" />
       </list>
     </recent_temporary>
   </component>
@@ -318,21 +396,21 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
+    <frame x="-378" y="-1447" width="1721" height="935" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25099286" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24985163" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3285968" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.35323384" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24283935" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3285968" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.44049734" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.24159402" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.35523978" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -363,13 +441,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/969022176/cv2/cv2/VideoCapture.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="126" column="8" selection-start-line="126" selection-start-column="8" selection-end-line="126" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/969022176/cv2/cv2/VideoCapture.py" />
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/os.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-86">
@@ -377,20 +449,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/969022176/cv2/cv2/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
-          <caret line="7395" column="34" lean-forward="true" selection-start-line="7395" selection-start-column="34" selection-end-line="7395" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/969022176/cv2/cv2/__init__.py" />
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/IPython/core/interactiveshell.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="212">
@@ -445,22 +504,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/969022176/cv2/cv2/VideoWriter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="123" column="8" selection-start-line="123" selection-start-column="8" selection-end-line="123" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/969022176/cv2/cv2/VideoWriter.py" />
     <entry file="file://$PROJECT_DIR$/test2/__init__.py" />
     <entry file="file://$PROJECT_DIR$/test/te" />
-    <entry file="file://$PROJECT_DIR$/path_related.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="34" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ImageRotate.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -468,36 +514,75 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/VideoRotate.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/function_use.py" />
     <entry file="file://$PROJECT_DIR$/arg_use.py" />
-    <entry file="file://$PROJECT_DIR$/VideoSplict.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="38" column="26" lean-forward="true" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cmd_related.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
-          <caret line="17" column="11" lean-forward="true" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
           <folding>
             <marker date="1615294547251" expanded="true" signature="372:375" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test_package/test_a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+          <folding>
+            <marker date="1615986115624" expanded="true" signature="8:13" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_package/test_b.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/arg_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/path_related.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="41" column="27" lean-forward="true" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VideoSplict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="535">
+          <caret line="40" column="30" lean-forward="true" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VideoRotate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+            <marker date="1616476884064" expanded="true" signature="690:2140" ph="..." />
+            <marker date="1616476884064" expanded="true" signature="727:2140" ph="..." />
+            <marker date="1616476884064" expanded="true" signature="1079:1080" ph="..." />
+            <marker date="1616476884064" expanded="true" signature="2137:2140" ph="..." />
+            <marker date="1616476884064" expanded="true" signature="2138:2140" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>

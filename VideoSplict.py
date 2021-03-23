@@ -37,5 +37,5 @@ def split_video(video_url, denominator):
 
 
 if __name__ == '__main__':
-    video_path = r"C:\Users\Meleny\Desktop\m'file\compulsory courses\GraduationProject\dataset\result\res_test.mp4"
+    video_path = r"C:\Users\Meleny\Desktop\m'file\compulsory courses\GraduationProject\dataset\video\test.mp4"
     split_video(video_path, 1)
