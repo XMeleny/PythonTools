@@ -2,10 +2,22 @@ import cv2
 import numpy as np
 import path_related
 
-import skvideo
 import skvideo.io
 
 skvideo.setFFmpegPath(r"C:\Users\Meleny\ffmpeg-4.3.2-2021-02-02-full_build\bin")
+
+
+def get_rotate_degree(video_path):
+    video_metadata = skvideo.io.ffprobe(video_path)
+    degree = 0
+    for tag_info in video_metadata['video']['tag']:
+        for key, val in tag_info.items():
+            if val == "rotate":
+                degree = int(tag_info["@value"])  # 原来是float
+                break
+        break
+    # print("degree = {}".format(degree))
+    return degree
 
 
 # 得到旋转角度之后，对视频帧旋转对应的负角度便可以得到正向的图像
@@ -28,19 +40,6 @@ def rotate_img_data(img_data, degree):
 
     img_rotated = cv2.warpAffine(img_data, M, (nW, nH))
     return img_rotated
-
-
-def get_rotate_degree(video_path):
-    video_metadata = skvideo.io.ffprobe(video_path)
-    degree = 0
-    for tag_info in video_metadata['video']['tag']:
-        for key, val in tag_info.items():
-            if val == "rotate":
-                degree = int(tag_info["@value"])  # 原来是float
-                break
-        break
-    # print("degree = {}".format(degree))
-    return degree
 
 
 def rotate_video(video_path, degree):
@@ -75,4 +74,5 @@ def rotate_video(video_path, degree):
 if __name__ == "__main__":
     src_filename = r"C:\Users\Meleny\Desktop\m'file\compulsory courses\GraduationProject\dataset\video\test.mp4"
     print(get_rotate_degree(src_filename))
-    rotate_video(src_filename, get_rotate_degree(src_filename))
+    # rotate_video(src_filename, get_rotate_degree(src_filename))
+    rotate_video(src_filename, 90)
